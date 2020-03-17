@@ -1,0 +1,63 @@
+body{
+	background: #E5E7E9;
+}
+header{
+	background: #ECF0F1;
+	width: 100%;
+	margin-bottom: 20px;
+}
+#logo{
+	width: 10%;
+	height: 60px;
+	padding: 5px;
+	margin: 0px 20px;
+	margin-top: 10px;
+}
+p{
+	font-family: 'Baloo Chettan 2', cursive;
+	font-family: 'Roboto Mono', monospace;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+}
+#sec{
+	background: #5DADE2;
+	width: 110%;
+	height: 400px;
+}
+#caja_uno{
+	width: 30%;
+	height: 390px;
+	padding: 5px;
+}
+input{
+	width: 100%;
+}
+#guardar{
+	background: #27AE60;
+	border:none;
+	padding: 5px;
+	border-radius: 2px;
+}
+#borrar{
+	background: #CB4335;
+	border:none;
+	padding: 5px;
+	border-radius: 2px;
+}
+#ver_dato{
+	background: #F1C40F;
+	border:none;
+	padding: 5px;
+	border-radius: 2px;
+}
+#caja_dos{
+	background: green;
+	width: 40%;
+	height: 90px;
+	margin: 0px auto;
+}
